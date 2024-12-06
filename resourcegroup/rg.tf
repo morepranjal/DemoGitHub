@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "example" {
   location = var.deploy_location
 }
 
-resource "azurerm_resource_group" "example" {
+resource "azurerm_resource_group" "example1" {
   name     = "demonewgit"
   location = var.deploy_location
 }
