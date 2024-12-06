@@ -1,3 +1,3 @@
-module "RG" {
- source = "./DemoGitHub/resourcegroup"
+module "rG" {
+ source = "./resourcegroup"
 }
